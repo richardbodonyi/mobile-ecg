@@ -27,7 +27,7 @@ A 2.4" TFT LCD driven by the ILI9341 controller.
 
 Interface: 4-wire SPI.
 
-Output: Real-time scrolling ECG waveform, Heart Rate (BPM), and Oxygen Saturation (Pulse Ox) placeholders.
+Output: Real-time scrolling ECG waveform and Heart Rate (BPM).
 
 ## Project Structure (Altium)
 The repository contains 2 complete Altium Designer projects:
