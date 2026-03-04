@@ -33,3 +33,10 @@ Output: Real-time scrolling ECG waveform and Heart Rate (BPM).
 The repository contains 2 complete Altium Designer projects:
 - Control - the controlling panel with a rotary encoder
 - ECG - the mainboard of the device
+
+## ECG PCB Board
+![alt text](docs/top.png)
+
+![alt text](docs/bottom.png)
+
+![alt text](docs/3d.PNG)
